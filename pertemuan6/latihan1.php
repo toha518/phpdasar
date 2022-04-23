@@ -1,7 +1,11 @@
 <?php
 // Pengulangan pada array
 // for / foreach
-$angka = [3, 1, 21, 12, 3, 1, 12, 3, 112];
+$angka = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+];
 ?>
 
 <!DOCTYPE html>
@@ -36,14 +40,11 @@ $angka = [3, 1, 21, 12, 3, 1, 12, 3, 112];
 </head>
 
 <body>
-    <?php for ($i = 0; $i < count($angka); $i++) : ?>
-        <div class="kotak"><?= $angka[$i]; ?></div>
-    <?php endfor; ?>
-
-    <div class="clear"></div>
-
     <?php foreach ($angka as $a) : ?>
-        <div class="kotak"><?= $a ?></div>
+        <?php foreach ($a as $b) : ?>
+            <div class="kotak"><?= $b ?></div>
+        <?php endforeach; ?>
+        <div class="clear"></div>
     <?php endforeach; ?>
 </body>
 
