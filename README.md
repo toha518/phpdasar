@@ -10,6 +10,6 @@ Link : https://www.youtube.com/watch?v=l1W2OwV5rgY&list=PLFIM0718LjIUqXfmEIBE3-u
   <li>Pertemuan 5 : Array</li>
   <li>Pertemuan 6 : Associative Array</li>
   <li>Pertemuan 7 : Get & Post</li>
-  <li>Pertemuan 8 : Database $ MySQL (Tidak ada file)</li>
+  <li>Pertemuan 8 : Database & MySQL (Tidak ada file)</li>
   <li>Pertemuan 9 : PHP & MySQL</li>
 </ul>
