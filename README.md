@@ -15,4 +15,5 @@ Link : https://www.youtube.com/watch?v=l1W2OwV5rgY&list=PLFIM0718LjIUqXfmEIBE3-u
   <li>Pertemuan 9 : PHP & MySQL</li>
   <li>Pertemuan 10 : Insert & Delete</li>
   <li>Pertemuan 11 : Update</li>
+  <li>Pertemuan 12 : Search</li>
 </ul>
