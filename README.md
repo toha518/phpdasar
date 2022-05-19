@@ -1,4 +1,5 @@
 # phpdasar
+
 Hasil mengikuti Playlist Belajar PHP untuk PEMULA Channel Youtube Web Programming UNPAS <br>
 Link : https://www.youtube.com/watch?v=l1W2OwV5rgY&list=PLFIM0718LjIUqXfmEIBE3-uzERZPh3vp6
 
@@ -13,4 +14,5 @@ Link : https://www.youtube.com/watch?v=l1W2OwV5rgY&list=PLFIM0718LjIUqXfmEIBE3-u
   <li>Pertemuan 8 : Database & MySQL (Tidak ada file)</li>
   <li>Pertemuan 9 : PHP & MySQL</li>
   <li>Pertemuan 10 : Insert & Delete</li>
+  <li>Pertemuan 11 : Update</li>
 </ul>
