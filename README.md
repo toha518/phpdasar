@@ -19,4 +19,5 @@ Link : https://www.youtube.com/watch?v=l1W2OwV5rgY&list=PLFIM0718LjIUqXfmEIBE3-u
   <li>Pertemuan 13 : Upload</li>
   <li>Pertemuan 14 : Register</li>
   <li>Pertemuan 15 : Login</li>
+  <li>Pertemuan 16 : Session</li>
 </ul>
