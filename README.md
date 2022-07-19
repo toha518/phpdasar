@@ -24,4 +24,5 @@ Link : https://www.youtube.com/watch?v=l1W2OwV5rgY&list=PLFIM0718LjIUqXfmEIBE3-u
   <li>Pertemuan 18 : Pagination</li>
   <li>Pertemuan 19 : Live Search (AJAX)</li>
   <li>Pertemuan 20 : Live Search (JQUERY)</li>
+  <li>Pertemuan 21 : PDF Reporting</li>
 </ul>
